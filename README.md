@@ -1,6 +1,6 @@
 # Sai Kiran's Portfolio 😎
 
-This website demonstates my work. It has my proejcts,blogs,social links,skills.
+This website demonstates my work. It has my skills,projects,blogs,social profile links,.
 
 ---
 ## Technologies used
