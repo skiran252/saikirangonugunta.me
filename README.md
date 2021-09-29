@@ -21,7 +21,7 @@ This website demonstates my work. It has my skills,projects,blogs,social profile
 
 ---
 
-### Live project link: [Click Here](https://saikran-gonugunta.netlify.app "Aman's Portfolio")
+### Live project link: [Click Here](https://saikiran-gonugunta.netlify.app "saikiranp's Portfolio")
 
 ---
 
