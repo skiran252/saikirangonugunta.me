@@ -9,7 +9,6 @@ import Blogs from "./components/Blogs";
 function App() {
   return (
     <Router>
-      <div className="mb-40">
       <Navigation />
       <Switch>
         <Route exact path="/">
@@ -23,7 +22,6 @@ function App() {
           <Blogs />
         </Route>
       </Switch>
-      </div>
       <Footer />
     </Router>
   );
