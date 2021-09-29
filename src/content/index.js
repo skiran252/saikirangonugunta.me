@@ -93,6 +93,13 @@ export default {
       description:
         "tells if your birthday is a palindrome and tells next nearest palindromic date from your dob",
     },
+    {
+      title: "14. Stock Profit/Loss Calculator",
+      source: "https://github.com/skiran252/neogmark14",
+      preview: "https://skiran252-mark14.netlify.app/",
+      description:
+        "given initial price,units,current price, displays profit or loss",
+    },
   ],
   social: [
     {
